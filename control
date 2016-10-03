@@ -1,0 +1,10 @@
+Package: com.chfreeware.noapplabels
+Name: NoAppLabels
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Hide all of your app labels!
+Maintainer: iOSChris <ioschrisharris@gmail.com>
+Author: iOSChris <ioschrisharris@gmail.com>
+Homepage: http://www.chrisharrisdev.com/
+Section: Tweaks
